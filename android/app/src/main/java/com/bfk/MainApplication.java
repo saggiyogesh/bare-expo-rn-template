@@ -1,6 +1,6 @@
 package com.bfk;
 
-import com.myapp.generated.BasePackageList;
+import com.bfk.generated.BasePackageList;
 import android.app.Application;
 import android.content.Context;
 import com.facebook.react.PackageList;
